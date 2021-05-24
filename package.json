@@ -1,0 +1,11 @@
+{
+  "name": "2d-rigid body-simulation",
+  "description": "A 2D simulation with physically simulated rigid body.",
+  "dependencies": {
+    "bootstrap": "^4.5.1",
+    "jquery": "^3.5.1",
+    "matter-attractors": "^0.1.6",
+    "matter-js": "^0.12.0",
+    "p5": "^1.1.9"
+  }
+}
