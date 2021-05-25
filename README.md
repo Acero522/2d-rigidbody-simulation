@@ -1,19 +1,20 @@
 ## rigid-body-simulation
-刚体模拟  
+刚体模拟2D或3D实现  
 
 ## 库依赖:
-
+2D  
 - [matter.js](https://www.npmjs.com/package/matter-js)
 - [matter-attractors](https://www.npmjs.com/package/matter-attractors)
 - [p5.js](https://www.npmjs.com/package/p5)
-
+3D  
+- [FleX](https://github.com/NVIDIAGameWorks/FleX)  
   
 ## 项目描述
   
 **完成项目：**  
 刚体模拟  
   
-**实现：**    
+**2D实现：**    
 使用JavaScript，利用matter.js 2D刚体物理引擎，matter-attractors引力模拟库，实现2D小球刚体及box刚体碰撞模拟。  
   
 **使用：**        
@@ -27,7 +28,8 @@ NVIDIA FleX(https://github.com/NVIDIAGameWorks/FleX)
 2D
 ![avatar](/pic/1.png)  
 ![avatar](/pic/2.gif)  
-
+3D  
+  
 ## 参考:
 - [NVIDIAGameWorks/FleX](https://github.com/NVIDIAGameWorks/FleX)  
 - [metaball-fluid-simulation](https://github.com/mx0c/metaball-fluid-simulation)
