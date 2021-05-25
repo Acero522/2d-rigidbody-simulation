@@ -22,11 +22,12 @@
 
 **3D实现**  
 NVIDIA FleX(https://github.com/NVIDIAGameWorks/FleX)  
-**示例：** 
   
+**示例：** 
+2D
 ![avatar](/pic/1.png)  
 ![avatar](/pic/2.gif)  
 
 ## 参考:
-
+- [NVIDIAGameWorks/FleX](https://github.com/NVIDIAGameWorks/FleX)  
 - [metaball-fluid-simulation](https://github.com/mx0c/metaball-fluid-simulation)
