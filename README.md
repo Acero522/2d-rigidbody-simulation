@@ -2,11 +2,11 @@
 刚体模拟2D或3D实现  
 
 ## 库依赖:
-2D  
+2D   
 - [matter.js](https://www.npmjs.com/package/matter-js)
 - [matter-attractors](https://www.npmjs.com/package/matter-attractors)
 - [p5.js](https://www.npmjs.com/package/p5)
-3D  
+3D    
 - [FleX](https://github.com/NVIDIAGameWorks/FleX)  
   
 ## 项目描述
@@ -22,7 +22,7 @@
 随机生成刚体数量个在最大体积和最小体积之间随机大小的刚体，鼠标点按或拖拽都可模拟2D刚体碰撞。  
 
 **3D实现**  
-NVIDIA FleX(https://github.com/NVIDIAGameWorks/FleX)  
+[NVIDIA FleX](https://github.com/NVIDIAGameWorks/FleX)  
   
 **示例：** 
 2D
