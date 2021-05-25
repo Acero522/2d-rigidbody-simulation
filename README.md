@@ -3,11 +3,11 @@
 
 ## 库依赖:
 2D   
-[matter.js](https://www.npmjs.com/package/matter-js)
-[matter-attractors](https://www.npmjs.com/package/matter-attractors)
-[p5.js](https://www.npmjs.com/package/p5)
-3D    
-[FleX](https://github.com/NVIDIAGameWorks/FleX)  
+[matter.js](https://www.npmjs.com/package/matter-js)  
+[matter-attractors](https://www.npmjs.com/package/matter-attractors)  
+[p5.js](https://www.npmjs.com/package/p5)  
+3D      
+[FleX](https://github.com/NVIDIAGameWorks/FleX)    
   
 ## 项目描述
   
