@@ -1,5 +1,5 @@
-## 2d-rigid-body-simulation
-2D刚体模拟  
+## rigid-body-simulation
+刚体模拟  
 
 ## 库依赖:
 
