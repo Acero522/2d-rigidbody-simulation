@@ -20,16 +20,19 @@
 **使用：**        
 下载压缩包点击index.html运行，可以设置刚体数量，刚体最大体积，刚体最小体积。     
 随机生成刚体数量个在最大体积和最小体积之间随机大小的刚体，鼠标点按或拖拽都可模拟2D刚体碰撞。  
+   
+**示例：** 
+  
+![avatar](/pic/1.png)  
+![avatar](/pic/2.gif)  
 
 **3D实现**  
 [NVIDIA FleX](https://github.com/NVIDIAGameWorks/FleX)  
   
-**示例：** 
-2D
-![avatar](/pic/1.png)  
-![avatar](/pic/2.gif)  
-3D  
+**3D示例**
   
+  
+
 ## 参考:
 - [NVIDIAGameWorks/FleX](https://github.com/NVIDIAGameWorks/FleX)  
 - [metaball-fluid-simulation](https://github.com/mx0c/metaball-fluid-simulation)
